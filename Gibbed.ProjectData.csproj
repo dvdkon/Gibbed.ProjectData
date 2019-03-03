@@ -3,10 +3,10 @@
   <PropertyGroup>
     <ProjectGuid>{F27A289E-3376-4653-89F3-D19C1ECABF33}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <TargetFrameworks>netcoreapp2.2</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <AssemblyDescription>Helper assembly for ease of loading project data.</AssemblyDescription>
     <Copyright>Copyright © Gibbed 2011</Copyright>
-    <TargetFrameworks>netcoreapp2.2</TargetFrameworks>
+    <TargetFrameworks>netcoreapp3.0</TargetFrameworks>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="2.0.1" />
